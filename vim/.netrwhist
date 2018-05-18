@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home6/qishuai.wang/CODE/sharkl3_lp4x/chipram/ddr/ddr_init/init/ddrc/r1p0'
+let g:netrw_dirhist_2='/home6/qishuai.wang/CODE/sharkl3_lp4x_br/chipram/ddr/ddr_init/init/ddrc/r1p0'
+let g:netrw_dirhist_3='/home6/qishuai.wang/CODE/sharkl3_trunk/chipram/ddr/ddr_init/init/ddrc/r1p0'
